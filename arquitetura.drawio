@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" modified="2024-05-11T01:44:14.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="cvONJBYgL458EpfwvZeT" type="device">
+  <diagram id="MIpqnA8A0ZGhYIcZQzIo" name="Página-1">
+    <mxGraphModel dx="2074" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M79si0B864475gFJ7eVj-2" value="controller" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="340" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="M79si0B864475gFJ7eVj-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;infraestrutura&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22controller%22%20style%3D%22shape%3Dfolder%3BfontStyle%3D1%3BspacingTop%3D10%3BtabWidth%3D40%3BtabHeight%3D14%3BtabPosition%3Dleft%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22220%22%20y%3D%22640%22%20width%3D%22340%22%20height%3D%22270%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;align=right;horizontal=1;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="553" y="520" width="540" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="M79si0B864475gFJ7eVj-4" value="&lt;div&gt;repository&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="830" width="340" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="M79si0B864475gFJ7eVj-5" value="entidade" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="570" width="360" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="M79si0B864475gFJ7eVj-6" value="pessoa" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="630" y="610" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="M79si0B864475gFJ7eVj-7" value="endereço" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="630" y="720" width="70" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
